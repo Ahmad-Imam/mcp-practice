@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "meetings": {
+      "command": "node",
+      "args": ["/Users/ahmadimam/Web/MCP-Practise/server.js"],
+      "env": {
+        "GOOGLE_PUBLIC_API_KEY": "AIzaSyC2sPwXfUQ0qX7EYoqDinbHbqYaXY9eDaA",
+        "CALENDAR_ID": "ahmadimam71@gmail.com"
+      }
+    }
+  }
+}
